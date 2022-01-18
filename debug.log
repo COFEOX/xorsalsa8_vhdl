@@ -1,0 +1,10 @@
+[0117/065101:WARNING:backend_impl.cc(1807)] Destroying invalid entry.
+[0117/065117:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Обычно разрешается только одно использование адреса сокета (протокол/сетевой адрес/порт). (0x2740)
+[0117/065117:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0117/065120:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0117/065120:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {714889E5-A934-42DA-A901-D262602A2524}\BrowserCache\GPUCache to C:\ProgramData\Altium\Altium Designer {714889E5-A934-42DA-A901-D262602A2524}\BrowserCache\old_GPUCache_000
+[0117/065120:ERROR:cache_creator.cc(129)] Unable to create cache
+[0117/065120:ERROR:shader_disk_cache.cc(589)] Shader Cache Creation failed: -2
+[0117/065120:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0117/065120:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {714889E5-A934-42DA-A901-D262602A2524}\BrowserCache to C:\ProgramData\Altium\Altium Designer {714889E5-A934-42DA-A901-D262602A2524}\old_BrowserCache_000
+[0117/065120:ERROR:cache_creator.cc(129)] Unable to create cache
